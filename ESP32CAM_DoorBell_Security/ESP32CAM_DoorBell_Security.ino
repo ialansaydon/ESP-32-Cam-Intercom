@@ -21,9 +21,9 @@
 
 
 
-const char* ssid = "Vodafone-iLLusions3D";       //wifi name
-const char* password = "Saydoala666!";       //password
-char auth[] = "Y0xoeG9DhET8BppWSQr6lfvE86DyMoi6";          //sent by Blynk
+const char* ssid = "......";       //wifi name
+const char* password = "......";       //password
+char auth[] = "";          //sent by Blynk
 
 String local_IP;
 // set the LCD number of columns and rows
